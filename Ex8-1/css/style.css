@@ -1,0 +1,232 @@
+*{
+    margin: 0;
+    float: left;
+}
+
+.A {
+    width: 727px;
+    height: 30px;
+    background-color: #e3e4e5;
+}
+
+.B {
+    list-style: none;
+    width: 727px;
+    height: 30px;
+    margin-left: -40px;
+}
+
+.C {
+    font-size: 10px;
+    margin-left: 10px;
+    width: 75px;
+    height: 15px;
+    margin-top: 10px;
+    color: #999999;
+    cursor: pointer;
+}
+
+.zero {
+    margin-left: 5px;
+    font-size: 1px;
+    color: red;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+
+.one {
+    overflow: hidden;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+    margin-left: 15px;
+    margin-top: 12px;
+}
+
+.D {
+    font-size: 1px;
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 48px;
+    height: 15px;
+    color: #999999;
+    cursor: pointer;
+}
+
+.two {
+    overflow: hidden;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+    margin-left: 15px;
+    margin-top: 12px;
+}
+
+.E {
+    font-size: 1px;
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 65px;
+    height: 15px;
+    color: #999999;
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+}
+
+li:hover {
+    background-color: #ffffff;
+}
+.e {
+    display: none;
+    position: absolute;
+    left: 10px;
+    padding: 5px;
+}
+
+.e>li {
+    width: 274px;
+    height: 16px;
+    padding: 5px;
+    background-color: #f0e2e2;
+    margin-left: -14px;
+    width: 50%;
+    float: left;
+}
+
+.e li:hover {
+    color: aqua;
+}
+
+.E:hover .e {
+    display: block;
+}
+
+li {
+    list-style: none;
+}
+
+.three {
+    overflow: hidden;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+    margin-left: 8px;
+    margin-top: 12px;
+}
+
+.F {
+    font-size: 1px;
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 48px;
+    height: 15px;
+    color: #999999;
+    cursor: pointer;
+}
+
+.four {
+    overflow: hidden;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+    margin-left: 15px;
+    margin-top: 12px;
+}
+
+.G {
+    font-size: 1px;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 61px;
+    height: 15px;
+    color: #ff0000;
+    cursor: pointer;
+}
+
+.five {
+    overflow: hidden;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+    margin-left: 11px;
+    margin-top: 12px;
+}
+
+.H {
+    font-size: 1px;
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 48px;
+    height: 15px;
+    color: #999999;
+    cursor: pointer;
+}
+
+.six {
+    overflow: hidden;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+    margin-left: 15px;
+    margin-top: 12px;
+}
+
+.I {
+    font-size: 1px;
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 48px;
+    height: 15px;
+    color: #999999;
+    cursor: pointer;
+}
+
+.seven {
+    overflow: hidden;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+    margin-left: 15px;
+    margin-top: 12px;
+}
+
+.J {
+    font-size: 1px;
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 48px;
+    height: 15px;
+    color: #999999;
+    cursor: pointer;
+}
+
+span {
+    width: 0px;
+    height: 00px;
+    display: inline-block;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #b9cacc;
+    border-left: 5px solid transparent;
+    position: absolute;
+    left: 298px;
+    top: 15px;
+}
+
+span1 {
+    width: 0px;
+    height: 00px;
+    display: inline-block;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #b9cacc;
+    border-left: 5px solid transparent;
+    position: absolute;
+    left: 460px;
+    top: 15px;
+}
+
+hr {
+    width: 282px;
+    margin-left: -14px;
+} 
